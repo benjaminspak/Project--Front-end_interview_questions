@@ -19,11 +19,12 @@
 
 - (Q) Can you describe the main difference between a forEach loop and a .map() and why you would pick one versus the other?
   - (A) [.forEach vs .map()](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md#can-you-describe-the-main-difference-between-a-foreach-loop-and-a-map-loop-and-why-you-would-pick-one-versus-the-other)
-- (Q) Explain the difference between a function and a class
-  - (A)
-- (Q) Explain this and the use of the fat arrow function
-  - (A)
+- (Q) Explain the difference between a function and a class.
+  - (A) [Classes vs. Functions](https://stackoverflow.com/questions/18202818/classes-vs-functions#answer-18202865)
+- (Q) Explain `.this` and the use of the fat arrow function.
+  - (A) [.this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+  - (A) [ES6 arrow functions](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
 - (Q) What is the event loop?
-  - (A)
-- (Q) Explain decorator functions in Javascript
-  - (A)
+  - (A) [Event Loop](https://youtu.be/8aGhZQkoFbQ)
+- (Q) Explain decorator functions in Javascript.
+  - (A) [JavaScript Decorators](https://www.sitepoint.com/javascript-decorators-what-they-are/)
